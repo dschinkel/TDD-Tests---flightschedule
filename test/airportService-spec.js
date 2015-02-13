@@ -1,7 +1,7 @@
 (function (root) {
 	'use strict';
 
-    // I want to be able to add and retrieve airports with 3 letter codes.
+        // I want to be able to add and retrieve airports with 3 letter codes.
 
 	describe('airportService', function () {
 
